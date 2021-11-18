@@ -61,8 +61,14 @@ The two ways in which we display data on the screen are Trees and Pie Charts. Th
 
 ## How to use
 Assuming you have python3, gcc, and pyqt5 installed on your linux:
-1- git clone https://github.com/Moo-osama/Disk-Analyzer-Tool.git
+1- 
+```
+git clone https://github.com/Moo-osama/Disk-Analyzer-Tool.git
+```
 2- From the terminal, cd to the OS directory
+```
+cd OS
+```
 3- compile the c++ backend script: 
 ```
 g++ test.cpp -o test
